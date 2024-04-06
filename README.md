@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Python program is a data querying application for a student management system. It interacts with a SQLite database containing information about students, courses, reviews, and addresses. The program allows users to execute various SQL queries to retrieve and manipulate data related to students and courses.
+This Python program is a data querying application for a student management system. It interacts with a SQLite database containing information about students, courses, course lecturers, reviews, and addresses. The program allows users to execute various SQL queries to retrieve and manipulate data related to students and courses.
 
 ## Features
 
