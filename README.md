@@ -1,4 +1,4 @@
-# School Database Mangement System
+# School Database Management System
 
 ## Introduction
 
